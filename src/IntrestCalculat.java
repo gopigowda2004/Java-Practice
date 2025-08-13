@@ -11,7 +11,7 @@ public class IntrestCalculat {
     int T=sc.nextInt();
 
     int SI=p*R*T;
-    float f=SI/100;
+    int f=SI/100;
     System.out.println(f);
 
   }
